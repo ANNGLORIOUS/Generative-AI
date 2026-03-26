@@ -20,7 +20,7 @@ This project supports password length customization and lets the user decide whe
 
 The goal of this project is to build a simple, secure, and customizable CLI tool that generates strong passwords directly from the terminal, while also documenting the learning process in a beginner-friendly way.
 
-## 2. Quick Summary of the Technology
+## 2. Summary of the Technology
 
 **What is Go?**
 
@@ -47,7 +47,7 @@ Docker, the widely used containerization platform, is written in Go.
 
 ## 4. Installation & Setup Instructions
 
-### Clone or open the project
+### Clone the project
 
 If using Git:
 
@@ -109,7 +109,7 @@ Generate a password using only lowercase letters and numbers:
 ./ironpass -upper=false -symbols=false
 ```
 
-## 5. Minimal Working Example
+## 5. Examples
 
 ### What the example does
 
